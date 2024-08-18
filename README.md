@@ -81,7 +81,7 @@ This project is a modification of the Landon Hotel scheduling application. The a
 2. **Run the Docker Container:**
   ```bash
   docker run -d -p 8080:8080 --name landon-hotel-app-container landon-hotel-app
-
+  ```
 ## Deployment
 To deploy this application to a cloud service:
 1. **Select a Cloud Provider:** AWS, Google Cloud, or Azure.
