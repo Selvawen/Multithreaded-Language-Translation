@@ -59,7 +59,7 @@ This project is a modification of the Landon Hotel scheduling application. The a
 ### Installation
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Selvawen/Multithreaded-Language-Translation.git
 2. **Navigate to the Project Directory:**
    ```bash
    cd d387-advanced-java
