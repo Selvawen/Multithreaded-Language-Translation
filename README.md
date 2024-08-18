@@ -26,10 +26,6 @@ This project demonstrates skills in full-stack development, internationalization
 8. [License](#license)
 9. [Contact](#contact)
 
-## Demo
-![Container_Running](https://github.com/user-attachments/assets/d5eafaa8-fabd-4911-9233-d7f6443cc316)
-![Container_Running2](https://github.com/user-attachments/assets/0a82f348-f8c2-42ef-a7aa-b1f0121a1bbe)
-
 ## Project Overview
 
 This project is a modification of the Landon Hotel scheduling application. The application has been enhanced to meet the new business requirements set forth by the management. The modifications include multithreaded language translation, currency display in multiple formats, and time zone conversion for event scheduling. Additionally, the application has been containerized using Docker for easy deployment to cloud environments.
